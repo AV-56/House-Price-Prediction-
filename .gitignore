@@ -1,0 +1,14 @@
+# Generated files
+*.pkl
+output.csv
+input.csv
+input - Copy.csv
+
+# Old scripts
+main_old.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
